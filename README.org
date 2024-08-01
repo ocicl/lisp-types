@@ -1,0 +1,9 @@
+* lisp-types
+
+Utilities dealing with CL types
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/jimka2001/lisp-types.git |
+| commit  | f9fb5e5                                         |
+| systems | lisp-types                                      |
+|---------+-------------------------------------------------|
